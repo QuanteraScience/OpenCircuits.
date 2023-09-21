@@ -1,2 +1,2 @@
 # OpenCircuits.
-Digital &amp; Analogue, Electrical Engineering, and Robotics Education &amp; designs!
+Digital & Analogue, Electrical Engineering, and Robotics Education & designs!
